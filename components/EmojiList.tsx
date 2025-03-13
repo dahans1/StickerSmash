@@ -1,5 +1,5 @@
-import { useState} from 'react';
-import { StyleSheet, FlatList, Platform, Pressable } from 'react-native';
+import { useState } from 'react';
+import { FlatList, Platform, Pressable, StyleSheet } from 'react-native';
 import { Image, type ImageSource } from 'expo-image';
 
 type Props = {

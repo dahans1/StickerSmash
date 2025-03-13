@@ -1,7 +1,6 @@
-import { View } from 'react-native';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 import Animated, { useAnimatedStyle, useSharedValue, withSpring } from 'react-native-reanimated';
-import { Image, type ImageSource } from 'expo-image';
+import { type ImageSource } from 'expo-image';
 
 type Props = {
     imageSize: number;
