@@ -51,20 +51,35 @@ Start the Expo development server by running:
 ### Project Structure
 project-root/
 ├── app/
+
 │   └── (tabs)/
+
 │       └── index.tsx
+
 ├── assets/
+
 │   └── images/
+
 │       └── background-image.png
+
 ├── components/
+
 │   ├── Button.tsx
+
 │   ├── CircleButton.tsx
+
 │   ├── EmojiList.tsx
+
 │   ├── EmojiPicker.tsx
+
 │   ├── EmojiSticker.tsx
+
 │   ├── IconButton.tsx
+
 │   └── ImageViewer.tsx
+
 └── package.json
+
 
 ### Tutorial Reference
 StickerSmash was built following the [Expo tutorial: Using React Native and Expo.](https://docs.expo.dev/tutorial/introduction/)
