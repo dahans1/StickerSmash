@@ -48,7 +48,7 @@ Start the Expo development server by running:
 * **On Mobile**: Scan the QR code displayed in your terminal using the Expo Go app.
 * **On Web**: Press `w` in the terminal to open the app in your default web browser.
 
-### Project Structure
+## Project Structure
 ```
 project-root/
 ├── app/
