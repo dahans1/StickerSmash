@@ -68,8 +68,7 @@ project-root/
 └── package.json
 ```
 
-### Tutorial Reference
-
+## Tutorial Reference
 StickerSmash was built following the [Expo tutorial: Using React Native and Expo.](https://docs.expo.dev/tutorial/introduction/)
 The objective of this tutorial is to get started with Expo and become familiar with the Expo SDK. It covers the following topics:
 * Create an app using the default template with TypeScript enabled
