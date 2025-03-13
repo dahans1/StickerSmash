@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
 
-3. **Running the App
+3. **Running the App**
 Start the Expo development server by running:
    ```bash
    npx expo start
