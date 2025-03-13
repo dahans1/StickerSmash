@@ -49,22 +49,22 @@ Start the Expo development server by running:
 * On Web: Press `w` in the terminal to open the app in your default web browser.
 
 ### Project Structure
-project-root/
-├── app/
-│   └── (tabs)/
-│       └── index.tsx
-├── assets/
-│   └── images/
-│       └── background-image.png
-├── components/
-│   ├── Button.tsx
-│   ├── CircleButton.tsx
-│   ├── EmojiList.tsx
-│   ├── EmojiPicker.tsx
-│   ├── EmojiSticker.tsx
-│   ├── IconButton.tsx
-│   └── ImageViewer.tsx
-└── package.json
+project-root/ \\
+├── app/ \\
+│   └── (tabs)/ \\
+│       └── index.tsx \\
+├── assets/ \\
+│   └── images/ \\
+│       └── background-image.png \\
+├── components/ \\
+│   ├── Button.tsx \\
+│   ├── CircleButton.tsx \\
+│   ├── EmojiList.tsx \\
+│   ├── EmojiPicker.tsx \\
+│   ├── EmojiSticker.tsx \\
+│   ├── IconButton.tsx \\
+│   └── ImageViewer.tsx \\
+└── package.json \\
 
 
 ### Tutorial Reference
